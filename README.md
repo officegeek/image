@@ -1,2 +1,2 @@
-# image
-Imgae repo
+# Image
+Image Repo
